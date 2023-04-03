@@ -174,7 +174,7 @@ cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/django
 
-sercets.json
+secrets.json
 =======
 hello.py
 >>>>>>> f8d5e94fe39a4c7980b942a62e4b35a58509af16
